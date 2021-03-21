@@ -1,0 +1,18 @@
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\appsettings.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.exe
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.deps.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.runtimeconfig.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.runtimeconfig.dev.json
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.dll
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\bin\Debug\netcoreapp3.1\Fila do banco.pdb
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.csprojAssemblyReference.cache
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\staticwebassets\Fila do banco.StaticWebAssets.Manifest.cache
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\staticwebassets\Fila do banco.StaticWebAssets.xml
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.MvcApplicationPartsAssemblyInfo.cache
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.AssemblyInfoInputs.cache
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.AssemblyInfo.cs
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.RazorTargetAssemblyInfo.cache
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.dll
+D:\github\desafios_dio\Desafios_CSharp_DotNet\Fila do banco\Fila do banco\obj\Debug\netcoreapp3.1\Fila do banco.pdb
